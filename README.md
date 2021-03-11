@@ -1,6 +1,7 @@
 # tor-pinger
 
 <h2>Setup Commands (Terminal)</h2>
+git clone https://github.com/Isloka/tor-pinger.git
 npm i tor-request
 
 <h2>Configuration</h2>
